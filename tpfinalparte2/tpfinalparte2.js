@@ -1,3 +1,4 @@
+//video: https://youtu.be/dEjb7_vApOI
 let juego;
 let fondoImg, princesaImg;
 let maq1Img, maq2Img, maq3Img;
@@ -61,3 +62,4 @@ function draw() {
 function mousePressed() {
   juego.mousePresionado();
 }
+
